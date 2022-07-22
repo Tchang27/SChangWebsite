@@ -1,0 +1,31 @@
+body.contact {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+
+
+.link_description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.link_description h1 {
+	color: #806BC3;
+}
+.link_description p {
+	color: #F4F1FE;
+	font-size: 1.3rem;
+	line-height: 1.5;
+  max-width: 550px;
+}
+
+
+
+
+
+/*About Page*/
+/*Contact Page*/
+/*Portfolio Page*/
