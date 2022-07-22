@@ -21,7 +21,20 @@ body.contact {
 	line-height: 1.5;
   max-width: 550px;
 }
-
+.link_box {
+	margin: 1em auto;
+	padding: 1em;
+	position: relative;
+  text-align: center;
+}
+.link-title {
+	color: #333;
+	font-size: 1.3rem;
+	font-weight: 700;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+  text-align: center;
+}
 
 
 
