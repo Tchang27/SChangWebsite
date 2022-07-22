@@ -27,13 +27,14 @@ body.contact {
 	position: relative;
   text-align: center;
 }
-.link-title {
-	color: #333;
-	font-size: 1.3rem;
-	font-weight: 700;
-	margin-bottom: 0px;
-	text-transform: uppercase;
-  text-align: center;
+.link_box img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+	margin-bottom: 16px;
+  width: 150px;
+  height: 150px;
+  float:left;
 }
 
 
