@@ -4,6 +4,14 @@ body.portfolio {
     background: #f2f6e9;
 }
 
+.slide {
+  left: 50%;
+  position: absolute;
+	top: 55%;
+	transform: translate(-50%, -55%);
+  width: 750px;
+  height: 750px;
+}
 
 
 
