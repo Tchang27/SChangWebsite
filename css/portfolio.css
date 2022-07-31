@@ -7,10 +7,10 @@ body.portfolio {
 .slide {
   left: 50%;
   position: absolute;
-	top: 55%;
+	top: 35%;
 	transform: translate(-50%, -55%);
-  width: 750px;
-  height: 750px;
+  width: 500px;
+  height: 500px;
 }
 
 .carousel-item img{
