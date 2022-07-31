@@ -3,3 +3,21 @@ body.about {
     margin: 0;
     background: #f2f6e9;
 }
+.about_description {
+  left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.about_description h1 {
+	color: #806BC3;
+}
+.about_description p {
+	color: #F4F1FE;
+	font-size: 1.3rem;
+	line-height: 1.5;
+  min-width: 500px;
+  max-width: 750px;
+
+}
