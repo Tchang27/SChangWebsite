@@ -1,0 +1,21 @@
+body.blogpage {
+    padding: 0;
+    margin: 0;
+    background: #B0B8B6;
+}
+.blog {
+	left: 50%;
+	position: absolute;
+	top: 10%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.blog h2 {
+	color: #806BC3;
+}
+.blog p {
+	color: #F4F1FE;
+	font-size: 1.3rem;
+	line-height: 1.5;
+  max-width: 550px;
+}
